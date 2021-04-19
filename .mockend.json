@@ -1,0 +1,78 @@
+{
+  "emps": [
+    {
+      "id": 1,
+      "name": "STARTERS"
+    },
+    {
+      "id": 2,
+      "name": "SEAFOOD"
+    },
+    {
+      "id": 3,
+      "name": "CHEF'S SPECIALS"
+    },
+    {
+      "id": 4,
+      "name": "DESSERTS"
+    },
+    {
+      "id": 5,
+      "name": "MAIN DISHES"
+    }
+  ],
+  "diningTable": [
+    {
+      "id": 1,
+      "tablename": "table 1",
+      "chairs": 2,
+      "isavailable": false
+    },
+    {
+      "id": 3,
+      "chairs": 6,
+      "tablename": "table 3",
+      "isavailable": "true"
+    },
+    {
+      "id": 2,
+      "chairs": 4,
+      "tablename": "table 2",
+      "isavailable": "true"
+    },
+    {
+      "id": 4,
+      "chairs": 8,
+      "tablename": "table 4",
+      "isavailable": "true"
+    },
+    {
+      "id": 5,
+      "tablename": "Table 5",
+      "chairs": 6,
+      "isavailable": false
+    }
+  ],
+  "items": [
+    {
+      "id": 1,
+      "menuid": 1,
+      "name": "Chiken kabab"
+    },
+    {
+      "id": 2,
+      "name": "Faluda",
+      "menuid": 4
+    },
+    {
+      "id": 3,
+      "menuid": 1,
+      "name": "Cheez kabab"
+    },
+    {
+      "id": 4,
+      "menuid": 2,
+      "name": "Fish fry"
+    }
+  ]
+}
